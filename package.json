@@ -1,0 +1,17 @@
+{
+  "name": "blog-the-right-way",
+  "version": "1.0.0",
+  "description": "Implementation of a CMS for a blog using patterns and best practices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {}
+}
